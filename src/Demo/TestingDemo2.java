@@ -12,7 +12,7 @@ public class TestingDemo2 {
 			System.out.println("Eat Somethings");
 		
 		else {
-			System.out.println("Do work now agaim");
+			System.out.println("Do work now agaim more time");
 		}
 		
 
